@@ -1,0 +1,445 @@
+{
+  "nbformat": 4,
+  "nbformat_minor": 0,
+  "metadata": {
+    "colab": {
+      "provenance": [],
+      "authorship_tag": "ABX9TyPb3xQiIM58RHKVAokZZwtk",
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "name": "python3",
+      "display_name": "Python 3"
+    },
+    "language_info": {
+      "name": "python"
+    }
+  },
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/Sar-mon/Ragastone12/blob/main/Clase_2_Python_Basic.ipynb%20rounds\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "code",
+      "execution_count": null,
+      "metadata": {
+        "id": "afUmX8yJXr-_"
+      },
+      "outputs": [],
+      "source": []
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "#**1. What is Python?**\n",
+        "\n",
+        "General programming languange\n",
+        "\n",
+        "* Data analysis\n",
+        "* Machinne Learning\n",
+        "* Web scrapping\n",
+        "* Creat videogames\n",
+        "* Create more software\n",
+        "* Statistical analysis\n"
+      ],
+      "metadata": {
+        "id": "Ja2ayAURX6IP"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "8bxO2r3NY0aD"
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "# **2. Why Python?**\n",
+        "\n",
+        "* it´s simple\n",
+        "* Open-Source\n",
+        "* Popular and documentation\n"
+      ],
+      "metadata": {
+        "id": "EyFD72ksZKMA"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "# **3. As a calculator**"
+      ],
+      "metadata": {
+        "id": "VVSPwsFfbJB8"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [],
+      "metadata": {
+        "id": "9H5Y-dgqbSkT"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "# Addition\n",
+        "2 + 2"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "o42myDh8bUAa",
+        "outputId": "275368a7-6106-425a-8987-6ad7ab91cd32"
+      },
+      "execution_count": null,
+      "outputs": [
+        {
+          "output_type": "execute_result",
+          "data": {
+            "text/plain": [
+              "4"
+            ]
+          },
+          "metadata": {},
+          "execution_count": 1
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "# Substraction\n",
+        "5 - 3"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "jFE9KJsCbkpb",
+        "outputId": "95f41ae2-6b7f-49f7-bb2a-07ddcf856d60"
+      },
+      "execution_count": null,
+      "outputs": [
+        {
+          "output_type": "execute_result",
+          "data": {
+            "text/plain": [
+              "2"
+            ]
+          },
+          "metadata": {},
+          "execution_count": 2
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "# Multiplication\n",
+        "12 * 5"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "68W8g4RrbxeT",
+        "outputId": "20d8b9fc-5f25-4bb5-b801-1a31cf3ef1d4"
+      },
+      "execution_count": null,
+      "outputs": [
+        {
+          "output_type": "execute_result",
+          "data": {
+            "text/plain": [
+              "60"
+            ]
+          },
+          "metadata": {},
+          "execution_count": 4
+        }
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "### **Twelve time five**\n"
+      ],
+      "metadata": {
+        "id": "-Bts9tLZcNba"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "# Division\n",
+        "10 / 3"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "j6aSTDbOcSfz",
+        "outputId": "28bdbde3-591d-4f4e-feff-c2225b8fc3aa"
+      },
+      "execution_count": null,
+      "outputs": [
+        {
+          "output_type": "execute_result",
+          "data": {
+            "text/plain": [
+              "3.3333333333333335"
+            ]
+          },
+          "metadata": {},
+          "execution_count": 6
+        }
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "## **Ten divided by three**"
+      ],
+      "metadata": {
+        "id": "OqWOiWPYcwj_"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "# Integer Division\n",
+        "10 // 3"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "Or8TNFrEdFlR",
+        "outputId": "93330669-dd35-40b4-e200-8dd714bba644"
+      },
+      "execution_count": null,
+      "outputs": [
+        {
+          "output_type": "execute_result",
+          "data": {
+            "text/plain": [
+              "3"
+            ]
+          },
+          "metadata": {},
+          "execution_count": 8
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        " #  Exponential\n",
+        " 5 ** 2"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "p096XLBpdYjk",
+        "outputId": "a3935137-1857-42fe-cbdb-dba76fd17820"
+      },
+      "execution_count": null,
+      "outputs": [
+        {
+          "output_type": "execute_result",
+          "data": {
+            "text/plain": [
+              "25"
+            ]
+          },
+          "metadata": {},
+          "execution_count": 9
+        }
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "### **Five to the power of two or Five Square**\n",
+        "\n"
+      ],
+      "metadata": {
+        "id": "Jf3_RVbleG35"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [],
+      "metadata": {
+        "id": "6jQORbjneV3X"
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "markdown",
+      "source": [],
+      "metadata": {
+        "id": "O6TM1TTYeSVe"
+      }
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "#5.2. Round"
+      ],
+      "metadata": {
+        "id": "YHXdC6pWK8IB"
+      },
+      "execution_count": null,
+      "outputs": []
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "round(1.2356, 3)"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "pCGP5F_xKzh7",
+        "outputId": "cf063384-fec1-446e-a53d-5e3c10648660"
+      },
+      "execution_count": 10,
+      "outputs": [
+        {
+          "output_type": "execute_result",
+          "data": {
+            "text/plain": [
+              "1.236"
+            ]
+          },
+          "metadata": {},
+          "execution_count": 10
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "#Example\n",
+        "# Lets round the number 1.23587\n",
+        "\n",
+        "print(\"the aproximate number\",123587, \"with:\")\n",
+        "print(\"3 decimals is:\", round (1.23587,3))\n",
+        "print(\"2 decimals is:\", round (1.23587,2))\n",
+        "print(\"1 decimals is:\", round (1.23587,1))\n",
+        "print(\"0 decimals is:\", round (1.23587,0))\n"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "MaK3VTVbO6D5",
+        "outputId": "73df1a4d-323c-46e1-be52-bfef3963d1f4"
+      },
+      "execution_count": 14,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "the aproximate number 123587 with:\n",
+            "3 decimals is: 1.236\n",
+            "2 decimals is: 1.24\n",
+            "1 decimals is: 1.2\n",
+            "0 decimals is: 1.0\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "#Mostrar el mismo reslutado utilizando for\n",
+        "\n",
+        "print(\"the approximation of the number\", 1.23587, \"with:\")\n",
+        "for i in range (3, 0, -1):\n",
+        "  print(i, \"decimals is:\", round(1.23587, i))\n",
+        "\n"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "nMb1aBczQQ4t",
+        "outputId": "bb3c486b-de11-4a27-a3c7-c37a3c503de4"
+      },
+      "execution_count": 17,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "the approximation of the number 1.23587 with:\n",
+            "3 decimals is: 1.236\n",
+            "2 decimals is: 1.24\n",
+            "1 decimals is: 1.2\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "# Example 2\n",
+        "print(\"sequence of numbers\" , 11, \"with:\")\n",
+        "for i in range (11, 66, 11):\n",
+        "  print(i, \"sequence of:\", round(1, i))"
+      ],
+      "metadata": {
+        "colab": {
+          "base_uri": "https://localhost:8080/"
+        },
+        "id": "p1XLJMIRRvWq",
+        "outputId": "6f8f260a-9118-4dc1-d653-b513bf1a1408"
+      },
+      "execution_count": 31,
+      "outputs": [
+        {
+          "output_type": "stream",
+          "name": "stdout",
+          "text": [
+            "sequence of numbers 11 with:\n",
+            "11 sequence of: 1\n",
+            "22 sequence of: 1\n",
+            "33 sequence of: 1\n",
+            "44 sequence of: 1\n",
+            "55 sequence of: 1\n"
+          ]
+        }
+      ]
+    },
+    {
+      "cell_type": "code",
+      "source": [
+        "#los primeros  10 multiplos de la tabla del cuatro"
+      ],
+      "metadata": {
+        "id": "RhZIcD5STsv0"
+      },
+      "execution_count": null,
+      "outputs": []
+    }
+  ]
+}
