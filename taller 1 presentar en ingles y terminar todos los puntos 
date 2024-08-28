@@ -1,0 +1,78 @@
+{
+  "cells": [
+    {
+      "cell_type": "markdown",
+      "metadata": {
+        "id": "view-in-github",
+        "colab_type": "text"
+      },
+      "source": [
+        "<a href=\"https://colab.research.google.com/github/Sar-mon/Ragastone12/blob/main/taller%201%20presentar%20en%20ingles%20y%20terminar%20todos%20los%20puntos%20\" target=\"_parent\"><img src=\"https://colab.research.google.com/assets/colab-badge.svg\" alt=\"Open In Colab\"/></a>"
+      ]
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "  # 1. **SALUD MENTAL Y FACTORES SOCIOECONOMICOS **\\n\",\n",
+        "        \"\\n\",\n",
+        "        \"## 1.1. VARIABLE DESCRIPTION\\n\",\n",
+        "        \"\\n\",\n",
+        "        \"* Desempleo con educación avanzada (% de la fuerza laboral total con educación avanzada) Es el porcentaje de la fuerza laboral con un nivel avanzado de educación que está desempleada. La educación avanzada comprende la educación superior de ciclo corto, una licenciatura o nivel de educación equivalente, una maestría o nivel de educación equivalente, o un doctorado o nivel de educación equivalente según la Clasificación Internacional Normalizada de la Educación 2011 (CINE 2011).\\n\",\n",
+        "        \"Periodicidad\\tAnual\\n\",\n",
+        "        \"Método de agregación\\tPromedio ponderado\\n\",\n",
+        "        \"\\n\",\n",
+        "        \"*  Tasa de mortalidad por suicidio (por cada 100.000 habitantes) Es el número de muertes por suicidio en un año por cada 100.000 habitantes. Tasa bruta de suicidio (no ajustada por edad).\\n\",\n",
+        "        \"Periodicidad\\tAnual\\n\",\n",
+        "        \"Método de agregación\\tPromedio ponderado\\n\",\n",
+        "        \"\\n\",\n",
+        "        \"* Ingreso Percapita, es la relación entre el valor total de todos los bienes y servicios finales generados durante un año por la economía de una nación o estado y el número de sus habitantes en ese año.\\n\",\n",
+        "        \"\\n\",\n",
+        "        \"* \\tÍndice de Gini, es el que mide el grado en que la distribución del ingreso (o, en algunos casos, el gasto de consumo) entre individuos u hogares dentro de una economía se desvía de una distribución perfectamente igualitaria.\\n\",\n",
+        "        \"Unidad de medida\\t%\\n\",\n",
+        "        \"Periodicidad\\tAnual\\n\",\n",
+        "        \"\\n\",\n",
+        "        \"## 1.2. Years or time frime\\n\",\n",
+        "        \"### Años:\\n\",\n",
+        "        \"\\n\",\n",
+        "        \"*   2019\\n\",\n",
+        "        \"* 2020\\n\",\n",
+        "        \"*2021\\n\",\n",
+        "        \"*2022\\n\",\n",
+        "        \"*2023\\n\",\n",
+        "        \"\\n\",\n",
+        "        \"## 1.3 Frecuency\\n\",\n",
+        "        \"\\n\",\n",
+        "        \"**Periocidad:** Anual\\n\",\n",
+        "        \"\\n\",\n",
+        "        \"## 1.4 Sources\\n\",\n",
+        "        \" * https://databank.worldbank.org/source/world-d"
+      ],
+      "metadata": {
+        "id": "wvCQ64NTrmIH"
+      }
+    },
+    {
+      "cell_type": "markdown",
+      "source": [
+        "# 2. Goal of DV\n",
+        "\n"
+      ],
+      "metadata": {
+        "id": "oFKZlYJfqHfl"
+      }
+    }
+  ],
+  "metadata": {
+    "colab": {
+      "name": "Welcome to Colaboratory",
+      "provenance": [],
+      "include_colab_link": true
+    },
+    "kernelspec": {
+      "display_name": "Python 3",
+      "name": "python3"
+    }
+  },
+  "nbformat": 4,
+  "nbformat_minor": 0
+}
